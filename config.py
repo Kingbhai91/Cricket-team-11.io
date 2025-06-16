@@ -1,0 +1,1 @@
+# Configuration file with DB URI and secret key

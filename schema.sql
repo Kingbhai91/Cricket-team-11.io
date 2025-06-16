@@ -1,0 +1,1 @@
+-- Complete SQL schema with user, match, team, wallet tables
