@@ -1,1 +1,1 @@
-// JS for interactivity
+// app.js placeholder
